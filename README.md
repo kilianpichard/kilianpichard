@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Botify](https://www.botify.com)
 
-- 👨‍💻 All of my projects are available at [Kilianp.fr](Kilianp.fr)
+- 👨‍💻 All of my projects are available at [Kilianp.fr](http://kilianp.fr)
 
 - 📫 How to reach me **pro@kilianp.fr**
 
