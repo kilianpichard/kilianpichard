@@ -5,8 +5,6 @@
 <h1 align="center">Please find all my repo on <a href="https://gitlab.com/kilianp" target="blank">gitlab</a> ! </h1>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at [Botify](https://www.botify.com)
-
 - 👨‍💻 All of my projects are available at [Kilianp.fr](http://kilianp.fr)
 
 - 📫 How to reach me **pro@kilianp.fr**
